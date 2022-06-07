@@ -7,8 +7,13 @@
 
 该数据集包含近 300 万张图片，涵盖 5 万个 SKU 级商品类别。
 
+数据样例：  
+</div>  
+<div align="center">
+<img src="./Image/AiProducts-Challenge.jpg"/>
+</div>  
 
-数据样例
+
 1st-plan：[1st__Winner Solution for AliProducts Challenge Large-scale Product Recognition.pdf](https://trax-geometry.s3.amazonaws.com/cvpr_challenge/recognition_challenge_technical_reports/1st__Winner+Solution+for+AliProducts+Challenge+Large-scale+Product+Recognition.pdf)
 
 6st-plan：[GitHub -AiProducts-Challenge](https://github.com/mingliangzhang2018/AiProducts-Challenge)
@@ -18,10 +23,13 @@
 
 数据介绍：[RPC-PDF](https://arxiv.org/pdf/1901.07249.pdf)
 
+数据样例：  
 
-数据介绍
+</div>  
+<div align="center">
+<img src="./Image/RPC.jpg"/>
+</div>  
 
-数据样例
 ## Products-10K（京东）
 下载地址：[Large scale product recognition challenge](https://products-10k.github.io/challenge.html#downloads)
 
@@ -30,7 +38,12 @@
 京东在线客户经常购买的10,000种产品，涵盖时尚、3C、食品等全品类，医疗保健，家居用品等。
 
 
-数据样例
+数据样例:
+</div>  
+<div align="center">
+<img src="./Image/Product10k.jpg"/>
+</div>  
+
 1st-plan:冠军方案分享：[ICPR 2020大规模商品图像识别挑战赛冠军解读](https://blog.51cto.com/u_15298598/3121258)
 
 ## [iMaterialist FGVC6 产品识别挑战赛(CVPR 2019码隆科技)](https://www.kaggle.com/c/imaterialist-product-2019/)
@@ -49,38 +62,59 @@ test.json包含id,url测试集中的图像。测试数据有 90,834 张图像（
 数据集介绍：[SmartUVM_Datasets（全球新零售环境提供标准数据集）.pdf](https://dl2link.com/Selected%20Journal%20Publications/Towards%20New%20Retail%20A%20Benchmark%20Dataset%20for%20Smart%20Unmanned%20Vending%20Machines.pdf)
 
 
-数据表格
+数据样例：
+</div>  
+<div align="center">
+<img src="./Image/SmartUVM_Datasets.jpg"/>
+</div>  
 
-样本采集
 数据下载：[SmartUVM_Datasets_down(8G).tar](https://www.dl2link.com/dataset/SmartUVM_Datasets.tar)
 
 ## Grocery Store Dataset（）
-数据介绍(paper.pdf)：该存储库包含杂货商品的自然图像数据集。所有自然图像都是用智能手机相机在不同的杂货店拍摄的。最终得到了来自 81 种不同类别的水果、蔬菜和纸箱物品（例如果汁、牛奶、酸奶）的 5125 张自然图像。81个类分为42个粗粒度类，例如细粒度类“Royal Gala”和“Granny Smith”属于同一个粗粒度类“Apple”。
+数据介绍([paper.pdf](https://arxiv.org/pdf/1901.00711.pdf))：该存储库包含杂货商品的自然图像数据集。所有自然图像都是用智能手机相机在不同的杂货店拍摄的。最终得到了来自 81 种不同类别的水果、蔬菜和纸箱物品（例如果汁、牛奶、酸奶）的 5125 张自然图像。81个类分为42个粗粒度类，例如细粒度类“Royal Gala”和“Granny Smith”属于同一个粗粒度类“Apple”。
 
 
-数据样本
+数据样例：
+</div>  
+<div align="center">
+<img src="./Image/Grocery_Store_Dataset.jpg"/>
+</div>  
+
 数据下载：https://github.com/marcusklasson/GroceryStoreDataset
 
 ## MVTEC D2S（ECCV2018）
 数据介绍([paper.pdf](https://openaccess.thecvf.com/content_ECCV_2018/papers/Patrick_Follmann_D2S_Densely_Segmented_ECCV_2018_paper.pdf))：Densely Segmented Supermarket (D2S) 数据集是工业领域中实例感知语义分割的基准。它包含 21,000 张高分辨率图像，带有所有对象实例的像素标签。这些物品包括来自 60 个类别的杂货和日常用品。该基准的设计使其类似于自动结账、库存或仓库系统的真实设置。训练图像仅包含同质背景上的单个类别的对象，而验证集和测试集则更加复杂和多样化。为了进一步衡量实例分割方法的鲁棒性，使用不同的光照、旋转和背景获取场景。
 
 
-数据样例
+数据样例：
+</div>  
+<div align="center">
+<img src="./Image/MVTEC_D2S.jpg"/>
+</div>
 数据下载：[MVTec Densely Segmented Supermarket Dataset (MVTec D2S)](https://www.mvtec.com/company/research/datasets/mvtec-d2s)
 
 ## SHORT(WACV2014)
-数据介绍([paper.pdf](https://projet.liris.cnrs.fr/imagine/pub/proceedings/ICIP-2014/Papers/1569914435.pdf)):该数据集由一组高质量的训练图像和一组近13.5万张智能手机拍摄的30种食品的测试图像组成。包括零食，化妆品，药品，饮料，罐头食品，乳制品.训练集是高质量的，从产品手册、广告、3D产品视图中收集。测试集的质量并不稳定，因为图像是从手持手机上采集的，视角不同，清晰度不同，背景杂波不同，遮挡不同，光照不同，镜面反射不同。
+数据介绍([paper.pdf](https://projet.liris.cnrs.fr/imagine/pub/proceedings/ICIP-2014/Papers/1569914435.pdf)): 该数据集由一组高质量的训练图像和一组近13.5万张智能手机拍摄的30种食品的测试图像组成。包括零食，化妆品，药品，饮料，罐头食品，乳制品.训练集是高质量的，从产品手册、广告、3D产品视图中收集。测试集的质量并不稳定，因为图像是从手持手机上采集的，视角不同，清晰度不同，背景杂波不同，遮挡不同，光照不同，镜面反射不同。
 
+数据样例：
+</div>  
+<div align="center">
+<img src="./Image/SHORT.jpg"/>
+</div>
 
 数据下载：待定
 
 ## Locount(AAA2021)
 
-数据介绍（[paper.pdf](https://projet.liris.cnrs.fr/imagine/pub/proceedings/ICIP-2014/Papers/1569914435.pdf)）：在 28 个不同的商店和公寓中收集了一个大规模的对象定位和计数数据集，该数据集由 50,394 张图像组成，JPEG 图像分辨率为 1920x1080 像素。注释了 140 个类别（包括Jacket、Shoes、Oven等）中的超过 190 万个对象实例。
+数据介绍（[paper.pdf](https://projet.liris.cnrs.fr/imagine/pub/proceedings/ICIP-2014/Papers/1569914435.pdf)）: 在 28 个不同的商店和公寓中收集了一个大规模的对象定位和计数数据集，该数据集由 50,394 张图像组成，JPEG 图像分辨率为 1920x1080 像素。注释了 140 个类别（包括Jacket、Shoes、Oven等）中的超过 190 万个对象实例。
 
 为了方便数据的使用，我们将数据集划分为两个子集，即训练集和测试集，包括 34,022 幅训练图像和 16,372 幅测试图像。该数据集包括9大子类，即婴儿用品（例如，婴儿尿布和婴儿拖鞋）、饮料（例如，果汁和姜茶）、食品（例如，干鱼和蛋糕）、日化用品（例如，肥皂和洗发水） )、服装（如夹克和成人帽）、电器（如微波炉和插座）)、存储设备（例如，垃圾和凳子）、厨房用具（例如，叉子和食品盒）以及文具和体育用品（例如，滑板和笔记本）。
 
-数据样例
+数据样例：
+</div>  
+<div align="center">
+<img src="./Image/Locount.jpg"/>
+</div>
 
 数据下载：[IntelligentTEAM / AAAI2021 Locount Dataset](https://isrc.iscas.ac.cn/gitlab/research/locount-dataset)
 
