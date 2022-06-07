@@ -119,4 +119,5 @@ test.json包含id,url测试集中的图像。测试数据有 90,834 张图像（
 数据下载：[IntelligentTEAM / AAAI2021 Locount Dataset](https://isrc.iscas.ac.cn/gitlab/research/locount-dataset)
 
 # 特别感谢
-特别感谢[Funny AI](https://zhuanlan.zhihu.com/p/490105852)提供的相关材料，本文已征得作者授权。
+1. 特别感谢[Funny AI](https://zhuanlan.zhihu.com/p/490105852)提供的相关材料，本文已征得作者授权；
+2. 特别感谢[PaddleClas](https://github.com/PaddlePaddle/PaddleClas/blob/release/2.4/docs/zh_CN/data_preparation/recognition_dataset.md#2.2.2)提供部分材料。
