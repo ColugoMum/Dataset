@@ -73,6 +73,7 @@
 </div>  
 
 1st-plan: 冠军方案分享:[ICPR 2020大规模商品图像识别挑战赛冠军解读](https://blog.51cto.com/u_15298598/3121258)
+
 ```
 @article{Bai2020Products10KAL,
   title={Products-10K: A Large-scale Product Recognition Dataset},
@@ -82,7 +83,6 @@
   volume={abs/2008.10545}
 }
 ```
-
 
 ## 4. [iMaterialist FGVC6 产品识别挑战赛(CVPR 2019码隆科技)](https://www.kaggle.com/c/imaterialist-product-2019/)
 
@@ -99,7 +99,6 @@ test.json包含id, url测试集中的图像. 测试数据有 90, 834 张图像(�
 **数据下载**: 比赛数据可在Google Drive或百度盘下载(密码:qecd)
 
 1st-plan:[iMaterialist Challenge on Product Recognition](https://www.kaggle.com/c/imaterialist-product-2019/)
-
 
 ## 5. SmartUVM_Datasets(2019哈工大(深圳))
 
@@ -237,4 +236,4 @@ RP2K数据集收录了50万+张零售商品货架图片, 商品种类超过2, 00
 # :heart: 特别感谢
 1. 特别感谢[Funny AI](https://zhuanlan.zhihu.com/p/490105852)提供的相关材料, 本文已征得作者授权; 
 2. 特别感谢[PaddleClas](https://github.com/PaddlePaddle/PaddleClas/blob/release/2.4/docs/zh_CN/data_preparation/recognition_dataset.md#2.2.2)提供部分材料; 
-3. 特别感谢各数据集来源单位。本Repo承诺仅将数据集用于学术。
+3. 特别感谢各数据集来源单位. 本Repo承诺仅将数据集用于学术.
