@@ -137,7 +137,7 @@ test.json包含id, url测试集中的图像. 测试数据有 90, 834 张图像(�
 <img src="./Image/Grocery_Store_Dataset.jpg"/>
 </div>  
 
-**数据下载**: [Grocery Store Dataset](https://github.com/marcusklasson/GroceryStoreDataset)
+**数据下载**:https://github.com/marcusklasson/GroceryStoreDataset
 
 ```
 @article{Klasson2019AHG,
